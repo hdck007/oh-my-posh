@@ -5,7 +5,7 @@ Here is the preview of the feature tho
 
 Happy hacking
 
-A ss to get an idea about the segment it is `<current-days-contribution>/<last-year-contribution>`
+A ss to get an idea about the segment it is `<current-day-contribution>/<last-year-contribution>`
 <br />
 <br />
 ![image](https://user-images.githubusercontent.com/68905333/187458791-b06907da-fdcb-461b-b9b9-d9a4cb8e674d.png)
